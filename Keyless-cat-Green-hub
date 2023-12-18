@@ -1,3 +1,5 @@
+-- Made by SnapDragon dev uwu
+-- most op script ever lol
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "Green Hub ui✅";
 	Text = "Bypassing byfron 2.0";
