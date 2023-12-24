@@ -27,7 +27,7 @@ Text = "Green Hub : Auto Bypased System, Activated!";
     Color = Color3.fromRGB(255, 255, 255);
 })
 
-wait(4.3)
+wait(3.3)
 
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
 Text = "Bypased Found: Byfron_apk_stophackz";
@@ -47,7 +47,7 @@ Text = "Bypassing..";
     Color = Color3.fromRGB(0, 230, 255);
 })
 
-wait(4.5)
+wait(3.5)
 
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
 Text = "Starting Green hub!";
@@ -108,6 +108,10 @@ tab1:CreateLabel("Ui by smartass0858")
 
 tab1:CreateLabel("owned by bl423_ / PyxPixel Boiz")
 
+tab1:CreateLabel("Sakuna da youtuber")
+
+tab1:CreateLabel("Next update in January 25")
+
 tab1:CreateLabel("Version 11.0")
 
 wait(0.2)
@@ -120,7 +124,7 @@ Duration = 15;
 wait(0.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Hey!"; 
-Text = "Revamped Ui!"; 
+Text = "Made by smartass0858!"; 
 Duration = 15; 
 })
 
